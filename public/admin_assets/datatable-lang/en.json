@@ -1,0 +1,43 @@
+{
+  "sEmptyTable": "There is no data available in the table",
+  "sLoadingRecords": "loading...",
+  "sProcessing": "processing...",
+  "sLengthMenu": "show _MENU_ entries",
+  "sZeroRecords": "no matching records found",
+  "sInfo": "showing _START_ to _END_ of _TOTAL_ entries",
+  "sInfoEmpty": "showing 0 to 0 of 0 entries",
+  "sInfoFiltered": "(filtered from _MAX_ total entries)",
+  "sSearch": "search:",
+  "oPaginate": {
+    "sFirst": "first",
+    "sPrevious": "previous",
+    "sNext": "next",
+    "sLast": "last"
+  },
+  "oAria": {
+    "sSortAscending": ": activate to sort column ascending",
+    "sSortDescending": ": activate to sort column descending"
+  },
+  "select": {
+    "rows": {
+      "_": "view %d rows",
+      "0": "",
+      "1": "view 1 row"
+    }
+  },
+  "buttons": {
+    "print": "print",
+    "colvis": "columns",
+    "copy": "copy",
+    "copyTitle": "copy to clipboard",
+    "copyKeys": "press <i>ctrl</i> or <i>\u2318</i> + <i>C</i> to copy table data to your clipboard.<br><br>to cancel, click this message or press escape.",
+    "copySuccess": {
+      "_": "%d rows copied to clipboard",
+      "1": "1 row copied to clipboard"
+    },
+    "pageLength": {
+      "-1": "show all rows",
+      "_": "show %d rows"
+    }
+  }
+}
